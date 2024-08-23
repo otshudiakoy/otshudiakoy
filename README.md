@@ -1,4 +1,4 @@
-- Bienvenue sur mon profil GitHub ! Je suis un développeur web et mathématicien passionné par l'intelligence artificielle et aux sciences des données. Avec une expérience solide en développement d'applications et , je travaille actuellement sur des projets innovants dans le domaine de la transformation numérique des Entreprises.
+- Bienvenue sur mon profil GitHub ! Je suis un développeur web et mathématicien passionné par l'intelligence artificielle et aux sciences des données. Avec une expérience solide en développement des applications web, je travaille actuellement sur des projets innovants dans le domaine de la transformation numérique des Entreprises.
 
 🎯 Compétences
 Développement Web : Java EE,Mysql Serveur
