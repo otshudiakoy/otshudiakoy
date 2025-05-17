@@ -2,7 +2,7 @@
 
 🎯 Compétences
 Développement Web : Java EE(Springboot)+Mysql Serveur/
-Analyse des données:SPSS,Jupiter Notebook(python)
+Analyse des données:SPSS,Jupiter Notebook,python
 
 <!---
 otshudiakoy/otshudiakoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
